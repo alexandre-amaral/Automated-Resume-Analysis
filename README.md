@@ -44,20 +44,6 @@ The CV Analyzer Prototype is a project focused on automating the analysis of res
 
 ---
 
-## File Structure
-
-```
-.
-├── main.py                  # Core program for data extraction and processing
-├── preprocessing.py         # Text preprocessing and normalization
-├── feature_extraction.py    # Feature extraction (TF-IDF, LDA, BERT)
-├── similarity_analysis.py   # Similarity calculation and ranking
-├── data/                    # Contains processed data files (CSV/JSON)
-├── models/                  # Saved models (Word2Vec, TF-IDF, etc.)
-├── resources/               # Preprocessed data (CVs, job descriptions)
-└── README.md                # Project documentation
-```
-
 ---
 
 ## Requirements
@@ -117,6 +103,3 @@ The CV Analyzer Prototype is a project focused on automating the analysis of res
 
 ---
 
-## Author
-**Alexandre Amaral**  
-For questions or collaboration, contact: [your-email@example.com](mailto:your-email@example.com)
