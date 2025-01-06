@@ -1,0 +1,6 @@
+/samples
+.cvs_preprocessed.csv
+.jobs_preprocessed.csv
+.results.csv
+.tfidf_vectors.csv
+.word2vec_model.model
